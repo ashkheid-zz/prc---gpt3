@@ -7,8 +7,8 @@ import {
   Possibility,
   WhatGPT3,
 } from './container';
-
 import { CTA, Brand, Navbar } from './component';
+import './app.css';
 
 const App = () => {
   return (
